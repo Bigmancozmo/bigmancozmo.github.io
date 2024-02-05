@@ -1,0 +1,42 @@
+body{
+    padding: 0px;
+    background-color: rgb(24, 5, 46);
+}
+
+.wrapper{
+    padding-top: 40px;
+    color: white;
+    font-family: 'Protest Strike', sans-serif;
+}
+
+.head{
+    text-align: center;
+    padding-bottom: 33px;
+}
+
+.head-main-txt{
+    font-size: 100px;
+}
+
+.head-sub-txt{
+    font-size: 30px;
+}
+
+.content{
+    width: calc(100% - 90px);
+    margin-left: 45px;
+    height: calc(100% - 156px - 40px - 90px);
+    background-color: rgb(29, 21, 65);
+    border-radius: 12px;
+    padding: 10px;
+}
+
+.centered-text{
+    width: 100%;
+    text-align: center;
+}
+
+.topic-text{
+    font-size: 55px;
+
+}
